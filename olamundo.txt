@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Gustavo damasio de oliveira
+=======
+GUSTAVO DAMASIO DE OLIVEIRA
+>>>>>>> fix/typo
